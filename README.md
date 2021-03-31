@@ -1,4 +1,4 @@
-# basic_chatapp
+# Basic Send Message Feature
 
 A new Flutter project.
 
